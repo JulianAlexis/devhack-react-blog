@@ -2,7 +2,7 @@
   "name": "devhack-blog",
   "version": "0.1.0",
   "private": true,
-  "engines":{
+  "engines": {
     "npm": "6.3.0",
     "node": "8.11.3"
   },
